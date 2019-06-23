@@ -1,0 +1,4 @@
+smtp;smtp.req.command;smtp.response.code
+pop;pop.request.command;pop.response.indicator
+ftp;ftp.request.command;ftp.response.code
+dns;dns.qry.type;dns.flags.rcode
